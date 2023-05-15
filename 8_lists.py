@@ -138,3 +138,16 @@ print(' in ------------------------------')
 students = ["ali", "ahmad", "mohammed", "otmane", "ali"]
 print('ahmad' in students)
 print('omar' in students)
+
+
+print('------------------------------')
+students = ["ali", "ahmad", "mohammed", "otmane", "ali"]
+students[0] = "omar"
+print(students)
+
+print('join------------------------------')
+students = ["ali", "ahmad", "mohammed", "otmane", "ali"]
+commma_separated = ", ".join(students)
+print(commma_separated)
+
+

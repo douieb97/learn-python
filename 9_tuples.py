@@ -24,3 +24,8 @@ students = ("ali", "ahmed", "otmane", "omar")
 print(min(students))
 print(max(students))
 print("otmane" in students)
+
+print('Add element to tuple --------------------------------')
+students = ("ali", "ahmed", "otmane", "omar")
+students = students + ("mohammed",)
+print(students)

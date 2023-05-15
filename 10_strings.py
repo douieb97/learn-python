@@ -49,4 +49,12 @@ text2 = text1.replace('string', '****')
 print(text1)
 print(text2)
 
+print('capitalize----------------------------')
+print('swapcase----------------------------')
+print('center----------------------------')
+print('startswith----------------------------')
+print('endswith----------------------------')
+print('isalpha----------------------------')
+print('isalnum----------------------------')
+print('isalnum----------------------------')
 

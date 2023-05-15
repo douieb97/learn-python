@@ -1,8 +1,12 @@
+"""
 
-
+"""
+## __init__: Called automatically when instantiating class
 class Student:
     def __init__(self, name):
         self.name = name
+
+
 
 
 movies = ['Matrix', 'Finding Nemo']
